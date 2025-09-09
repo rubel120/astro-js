@@ -1,1 +1,1 @@
-# astro-js issue
+# astro-js
